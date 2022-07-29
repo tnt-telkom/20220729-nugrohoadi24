@@ -1,0 +1,57 @@
+.background {
+    background-color: #FAFAFA;
+    min-height: 100vh;
+}
+
+.text-heading {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 20px;
+    color: #111827;
+}
+
+.text-subheading {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 24px;
+    color: #111827;
+}
+
+.text-description {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    color: #111827;
+}
+
+.text-note {
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+    color: #6B7280;
+}
+
+.btn-cancel {
+    padding: 9px 17px;
+    border: 1px solid #D1D5DB;
+    background: #fff;
+}
+
+.btn-submit {
+    padding: 9px 17px;
+    color: #FAFAFA;
+    background: #4F46E5;
+}
+
+.btn-auto-generate {
+    color: #4F46E5;
+    padding: 9px 17px;
+    background: #E0E7FF;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    border-radius: 6px;
+}
+
+.card-list {
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.06);
+    border-radius: 8px;
+}
